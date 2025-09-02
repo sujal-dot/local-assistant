@@ -1,0 +1,19 @@
+/* frontend/styles.qss */
+QWidget {
+    font-family: 'Segoe UI', Roboto, Arial;
+    color: #eaeaea;
+    background-color: #0f1720;
+}
+QLabel { color: #eaeaea; }
+QPushButton {
+    background: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 #6ee7b7, stop:1 #3b82f6);
+    border: none;
+    padding: 8px 14px;
+    border-radius: 8px;
+}
+QTextEdit {
+    background: rgba(255,255,255,0.03);
+    border: 1px solid rgba(255,255,255,0.06);
+    border-radius: 8px;
+    padding: 8px;
+}

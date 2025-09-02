@@ -1,0 +1,1 @@
+Place your custom logo.png and bg.jpg here. Two placeholder images were generated.

@@ -1,0 +1,5 @@
+pyqt6
+llama-cpp-python
+pyttsx3
+sounddevice
+numpy
