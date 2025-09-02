@@ -13,3 +13,5 @@ It includes:
  **To Run**
  cd /Users/sujal/Desktop/local-assistant
 python -m frontend.gui
+
+{KEEP THE MISTRAL MODEL FILE IN DESKTOP }
